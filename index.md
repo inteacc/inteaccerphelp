@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Inteacc ERP System help
 
 You can use the [editor on GitHub](https://github.com/inteacc/inteaccerphelp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
